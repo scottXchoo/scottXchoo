@@ -1,5 +1,5 @@
 ### 💻 I'm Web3 Front-End Developer.
-I'm Web3 Front-end developer who loves blockchain technology and Tesla.
+I love blockchain technology and Tesla.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottXchoo&show_icons=true&theme=apprentice) <br/>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FscottXchoo&count_bg=%235CBC12&title_bg=%23555555&icon=tesla.svg&icon_color=%23FF3A3A&title=hits&edge_flat=false)
