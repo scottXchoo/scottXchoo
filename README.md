@@ -1,4 +1,5 @@
-### Hi there 👋
+### 💻 I'm Web3 Front-End Developer.
+I love **Blockchain** Technology.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottXchoo&show_icons=true&theme=dark)
 
