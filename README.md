@@ -24,6 +24,7 @@
 - 22.06 - 23.02
 - Front-End Developer
 - [Github Link](https://github.com/scottXchoo/supernova-frontend)
+- [Youtube Link](https://youtu.be/D9PREmYUmrQ)
 
 ## 🎓 Education
 
