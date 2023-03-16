@@ -23,28 +23,26 @@
 
 - 22.06 - 23.02
 - Front-End Developer
-- [Github Link]()
-
-
-
-## ⭐️ Activites
+- [Github Link](https://github.com/scottXchoo/supernova-frontend)
 
 ## 🎓 Education
+
+### CAU | Chung-Ang University
+<img width="120" alt="cau_logo" src="https://user-images.githubusercontent.com/107841492/225519022-29c14be8-02ba-4c76-8628-a902009d8407.jpeg">
+
+- 18.03 - ing
+- Mechanical Engineering & SW Venture, 4th year of university
+
+### CURG | Crypto United Research Group
+<img width="120" alt="curg_logo" src="https://user-images.githubusercontent.com/107841492/225519688-c28336c0-c9c2-46a9-a081-fef192f945b9.jpg">
+
+- Researcher | 21.12 - 22.05
+- President | 22.06 - ing
+- [Website Link](http://curg.xyz/)
+- [Medium Link](https://medium.com/curg)
+- [Instagram Link](https://www.instagram.com/curg.in.seoul/)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottXchoo&show_icons=true&theme=apprentice) <br/>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FscottXchoo&count_bg=%235CBC12&title_bg=%23555555&icon=tesla.svg&icon_color=%23FF3A3A&title=hits&edge_flat=false)
-<!--
-**scottXchoo/scottXchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
