@@ -16,7 +16,7 @@
 - 22.05 - 22.11
 - Front-End Developer
 - [Service Link](https://cosmonaut.cosmwasm.com/)
-- [Github Link](https://github.com/D3LAB-DAO/cosmonaut-frontend)
+- [Github Link](https://github.com/scottXchoo/cosmonaut-frontend)
 - [Youtube Link](https://youtu.be/D9PREmYUmrQ)
 
 ### Supernova | Liquid Staking Protocol DeFi
