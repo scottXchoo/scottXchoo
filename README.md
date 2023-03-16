@@ -31,7 +31,7 @@
 <img width="120" alt="cau_logo" src="https://user-images.githubusercontent.com/107841492/225519022-29c14be8-02ba-4c76-8628-a902009d8407.jpeg">
 
 - 18.03 - ing
-- Mechanical Engineering & SW Venture, 4th year of university
+- Mechanical Engineering & SW Venture Department, 4th year of university
 
 ### CURG | Crypto United Research Group
 <img width="120" alt="curg_logo" src="https://user-images.githubusercontent.com/107841492/225519688-c28336c0-c9c2-46a9-a081-fef192f945b9.jpg">
