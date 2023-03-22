@@ -1,12 +1,12 @@
-## 🔥 I'm Web3 Front-End Developer who loves Blockchain Technology.
+## 🔥 I'm Web3 Front-end Developer who loves Blockchain Technology.
 
 ## 💼 Careers
 
-### A41 (a4xInc.) | Blockchain Infra StartUp
+### A41 (a4xInc.) | Blockchain Infra Start-Up
 <img width="120" alt="A41_logo" src="https://user-images.githubusercontent.com/107841492/225515452-5934dc62-de9c-4e03-b3fd-383d57589a49.png">
 
 - 22.06 - ing
-- Product Team / Front-End Developer
+- Product Team / Front-end Developer
 
 ## 📂 Projects
 
@@ -14,7 +14,7 @@
 <img width="120" alt="cosmonaut_logo" src="https://user-images.githubusercontent.com/107841492/225515897-f22dcf3c-4ba1-42f6-b1e0-deb842a0d73b.png">
 
 - 22.05 - 22.11
-- Front-End Developer
+- Front-end Developer
 - [Service Link](https://cosmonaut.cosmwasm.com/)
 - [Github Link](https://github.com/scottXchoo/cosmonaut-frontend)
 - [Youtube Link](https://youtu.be/D9PREmYUmrQ)
@@ -23,7 +23,7 @@
 <img width="120" alt="supernova_logo" src="https://user-images.githubusercontent.com/107841492/225516446-306a33b1-79f8-4444-87ee-756aa0bc3fb7.png">
 
 - 22.06 - 23.02
-- Front-End Developer
+- Front-end Developer
 - [Github Link](https://github.com/scottXchoo/supernova-frontend)
 - [Youtube Link](https://youtu.be/VG-m5jsV0Ck)
 
