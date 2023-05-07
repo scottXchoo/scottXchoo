@@ -31,6 +31,14 @@
 - [Github Link](https://github.com/scottXchoo/supernova-frontend)
 - [Youtube Link](https://youtu.be/VG-m5jsV0Ck)
 
+### Gateway | Rewards for Everything on Archway
+<img width="120" alt="gateway_logo" src="https://user-images.githubusercontent.com/107841492/236654754-bf141423-ff8f-4fcb-a1ea-c6c685d8a97c.png">
+
+- 23.03 - 23.04
+- Front-end Developer
+- [Github Link](https://github.com/scottXchoo/gateway-frontend)
+- [Youtube Link](https://youtu.be/RKFvcTzRr3Y)
+
 ## 🎓 Education
 
 ### CAU | Chung-Ang University
@@ -47,3 +55,9 @@
 - [Website Link](http://curg.xyz/)
 - [Medium Link](https://medium.com/curg)
 - [Instagram Link](https://www.instagram.com/curg.in.seoul/)
+
+### D3LAB | Decentralized autonomous organization that studies Decentralized things in a Decentralized manner
+<img width="120" alt="curg_logo" src="https://user-images.githubusercontent.com/107841492/236654831-29231c4c-8293-4080-85a0-20ff75976882.png">
+
+- Member | 22.05 - ing
+- [Website Link](http://d3lab.xyz/)
