@@ -14,8 +14,9 @@ Hi👋🏼 I'm interested in Web Development, ML/DL and Blockchain.
 
 
 ### Projects
-- [Simple Starter for NextJS](https://github.com/scottXchoo/Simple_Starter_for_NextJS) | Simple Starter & Boilerplate for Next.js 13+, Tailwind CSS 3.3 and TypeScript
-- [Supernova](https://github.com/scottXchoo/supernova-frontend) | Liquid Staking Protocol DeFi Platform
+- [Simple Starter for NextJS](https://github.com/scottXchoo/Simple_Starter_for_NextJS) : Simple Starter & Boilerplate for Next.js 13+, Tailwind CSS 3.3 and TypeScript
+- [Supernova](https://github.com/scottXchoo/supernova-frontend) : Liquid Staking Protocol DeFi Platform
+- [Cosmonaut](https://github.com/scottXchoo/cosmonaut-frontend) : CosmWasm Coding Academy for Developer Ecosystem
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottXchoo&show_icons=true&theme=apprentice)
