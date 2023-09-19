@@ -10,7 +10,7 @@ Hi👋🏼 I'm interested in Web Development, ML/DL and Blockchain.
   - [모던 자바스크립트 Deep Dive](https://github.com/scottXchoo/Modern_JavaScript_Deep_Dive) : 책 "모던 자바스크립트 Deep Dive" 매일 아침마다 읽고 주말에 간단히 정리하며 복습하는 중
 - 🤖 Machine Learning & Deep Learning
   - [Kaggle 프로젝트 필사](https://github.com/scottXchoo/Kaggle_Practice) : Kaggle 프로젝트들 필사하며 ML/DL 공부 중
-  - [딥러닝 개념 지도](https://github.com/scottXchoo/Deep_Learning_Deep_Dive) : 딥러닝 공부하면서 정리하는 중
+  - [딥러닝 개념 지도](https://github.com/scottXchoo/Deep_Learning_Deep_Dive) : 딥러닝 공부하는 내용 정리 중
 
 
 ### Projects
