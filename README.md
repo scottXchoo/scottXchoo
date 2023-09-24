@@ -9,7 +9,7 @@ Hi👋🏼 I'm interested in Web Development, ML/DL and Blockchain.
   - [Toss FE Conventions](https://github.com/scottXchoo/Toss_FE_Conventions) : Toss의 FE 관련 자료들을 통해 나만의 FE 컨벤션 만드는 중
   - [모던 자바스크립트 Deep Dive](https://github.com/scottXchoo/Modern_JavaScript_Deep_Dive) : 책 "모던 자바스크립트 Deep Dive" 매일 아침마다 읽고 주말에 간단히 정리하며 복습하는 중
 - 🤖 Machine Learning & Deep Learning
-  - [Kaggle 프로젝트 필사](https://github.com/scottXchoo/Kaggle_Practice) : Kaggle 프로젝트들 필사하며 ML/DL 공부 중
+  - [Kaggle 프로젝트 필사](https://github.com/scottXchoo/Kaggle_Practice) : Kaggle 프로젝트들 필사하는 중
   - [딥러닝 개념 지도](https://github.com/scottXchoo/Deep_Learning_Deep_Dive) : 딥러닝 공부하는 내용 정리 중
 
 
