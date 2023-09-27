@@ -18,8 +18,7 @@ Hi👋🏼 I'm interested in Web Development, ML/DL and Blockchain.
 - [Supernova](https://github.com/scottXchoo/supernova-frontend) : Liquid Staking Protocol DeFi Platform
 - [Cosmonaut](https://github.com/scottXchoo/cosmonaut-frontend) : CosmWasm Coding Academy for Developer Ecosystem
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottXchoo&show_icons=true&theme=apprentice)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
 <br/>
