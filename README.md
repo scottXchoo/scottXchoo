@@ -4,8 +4,8 @@
 
 ### "기본기"에 집중하고 있습니다.
 - 알고리즘 문제해결 능력 (PS)
-- CS 관련 논문 읽고 정리
-- 루틴한 삶 : 글쓰기, 영어 능력, 운동 습관
+- CS 기초 + 관련 논문 읽고 정리
+- 글쓰기 & 영어 능력 & 운동 습관 in 루틴한 삶
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
 
