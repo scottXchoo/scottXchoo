@@ -2,7 +2,7 @@
 
 [Portfolio](https://www.chooblog.xyz/) | [Blog](https://velog.io/@chooble) | [LinkedIn](https://www.linkedin.com/in/scott-choo-a61aa5155/)
 
-### "기본기"에 집중하고 있습니다.
+#### "기본기"에 집중하고 있습니다.
 - 알고리즘 문제해결 능력 (PS)
 - CS 기초 + 관련 논문 읽고 정리
 - 글쓰기 & 영어 능력 & 운동 습관 in 루틴한 삶
