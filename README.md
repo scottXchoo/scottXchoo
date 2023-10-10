@@ -1,6 +1,6 @@
 # Scott Choo (추교현)
 
-[Portfolio](https://www.chooblog.xyz/) | [Blog](https://velog.io/@chooble) | [LinkedIn](https://www.linkedin.com/in/scott-choo-a61aa5155/)
+[Blog](https://scottxchoo.xyz/) | [Portfolio](https://www.chooblog.xyz/) | [LinkedIn](https://www.linkedin.com/in/scott-choo-a61aa5155/)
 
 **"기본기"에 집중하고 있습니다.**
 - 알고리즘 문제해결 능력 (PS)
