@@ -1,7 +1,5 @@
 # Scott Choo (추교현)
 
-![coverImage](https://github.com/scottXchoo/scottXchoo/assets/107841492/a2e6e385-9e93-4c59-b202-1159b06aba60)
-
 ## 👋🏼 ABOUT ME
 
 성장을 가장 중요하게 생각하는 주니어 소프트웨어 엔지니어입니다😊
@@ -48,12 +46,31 @@
 
 ## 💻 TECH SKILLS
 ### 📱 Frontend
-
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+</div>
 
 ### 💽 Backend
+<div>
+  <img src="https://img.shields.io/badge/Java-004027?style=for-the-badge&logo=Jameson&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+</div>
 
 ### ⛓️ Blockchain & ML/DL
-
+<div>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+</div>
+  
+<br/>
 
 ## 🏢 EXPERIENCE & ACTIVIY
 |**단체 및 소속**|**활동 기간**|**활동 내용**|
