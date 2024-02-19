@@ -8,7 +8,7 @@
 
 **E-mail |** ckh0601@gmail.com
 
-[Blog](https://scottxchoo.xyz/) | [LinkedIn](https://www.linkedin.com/in/%EA%B5%90%ED%98%84-%EC%B6%94-a61aa5155/) | [X(Twitter)](https://twitter.com/scottXchoo) | [Instagram](https://www.instagram.com/dev.chooble/)
+[Blog](https://scottxchoo.xyz/) | [LinkedIn](https://www.linkedin.com/in/%EA%B5%90%ED%98%84-%EC%B6%94-a61aa5155/) | [X(Twitter)](https://twitter.com/scottXchoo) | [Instagram](https://www.instagram.com/dev.chooble/) | [Portfolio](https://www.chooblog.xyz/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
 
@@ -65,7 +65,7 @@ TBU
 ## 🗂️ PROJECT
 |프로젝트 기간|**프로젝트 내용**|**기술 스택**|
 |------|---|---|
-|23.09 - 23.12|비전 트랜스포머 기반의 폭력 사태 감지 딥러닝 모델, 'VDVT' 연구 및 개발|Python / Tensorflow / Keras|
+|23.09 - 23.12|비전 트랜스포머 기반의 폭력 사태 감지 딥러닝 모델, '[VDVT](https://scottxchoo.xyz/pr-vdvt/)' 연구 및 개발|Python / Tensorflow / Keras|
 |22.06 - 23.02|블록체인의 인터넷을 지향하는 Cosmos 블록체인에서 Liquid Staking을 제공하는 DeFi, '[Supernova](https://github.com/scottXchoo/Supernova_Front-end)' Frontend 개발|React / Next.js / TypeScript / React Query / Recoil|
 |22.05 - 22.11|CosmWasm 컨트랙트 언어를 쉽고 재밌게 배울 수 있는 교육 웹사이트, '[COSMonaut](https://cosmonaut.cosmwasm.com/)' Frontend 개발|React / JavaScript|
 
