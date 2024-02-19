@@ -12,9 +12,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
 
-### Tech Skills
-TBU
-
 ### Open Source
 - Frontend 스타터 개발 | [Simple Starter for NextJS](https://github.com/scottXchoo/Simple_Starter_for_NextJS) | 23.09.18
 - 오탈자 수정 ([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
@@ -49,6 +46,15 @@ TBU
 
 <br/>
 
+## 💻 TECH SKILLS
+### 📱 Frontend
+
+
+### 💽 Backend
+
+### ⛓️ Blockchain & ML/DL
+
+
 ## 🏢 EXPERIENCE & ACTIVIY
 |**단체 및 소속**|**활동 기간**|**활동 내용**|
 |------|---|---|
@@ -81,14 +87,28 @@ TBU
 |강원열린군대 군 창업동아리 경진대회|우수상 (군단장상)|20.12.31|육군 2군단|
 
 ### 자격증 및 어학
-> 24년 계획의 일부라 '예정'이 많습니다.
 
 |**이름**|**취득 내용**|**취득일자**|
 |---|---|---|
-|SQLD (예정)|자격증 취득|24.07.01|
-|PCCP (예정)|Lv.4|24.06.01|
-|정보처리기사 (예정)|쟈격증 취득|24.08.01|
-|TOPCIT (예정)|400점|24.11.01|
-|OPIc (예정)|IH|24.02.23|
 |TEPS|305점|23.10.15|
 
+<details>
+  <summary>
+    <b>PLAN (예정)</b>
+  </summary>
+  <div markdown="1">
+<br>
+    
+|**이름**|**취득 내용**|**취득일자**|
+|---|---|---|
+|SQLD|자격증|24.07.01|
+|PCCP|Lv.4|24.06.01|
+|PCSQL|Lv.4|24.06.01|
+|정보처리기사|쟈격증|24.08.01|
+|TOPCIT|400점|24.11.01|
+|OPIc|IH|24.02.23|
+
+  </div>
+</details>
+
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottXchoo&show_icons=true)](https://github.com/scottXchoo/github-readme-stats)
