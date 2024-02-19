@@ -59,7 +59,7 @@
 <div>
   <img src="https://img.shields.io/badge/Java-004027?style=for-the-badge&logo=Jameson&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
 ### ⛓️ Blockchain & ML/DL
@@ -86,11 +86,11 @@
 <br/>
 
 ## 🗂️ PROJECT
-|프로젝트 기간|**프로젝트 내용**|**기술 스택**|
-|------|---|---|
-|23.09 - 23.12|비전 트랜스포머 기반의 폭력 사태 감지 딥러닝 모델, '[VDVT](https://scottxchoo.xyz/pr-vdvt/)' 연구 및 모델 개발|Python / Tensorflow / Keras|
-|22.06 - 23.02|블록체인의 인터넷을 지향하는 Cosmos 블록체인에서 Liquid Staking을 제공하는 DeFi, '[Supernova](https://github.com/scottXchoo/Supernova_Front-end)' Frontend 개발|React / Next.js / TypeScript / React Query / Recoil|
-|22.05 - 22.11|CosmWasm 컨트랙트 언어를 쉽고 재밌게 배울 수 있는 교육 웹사이트, '[COSMonaut](https://cosmonaut.cosmwasm.com/)' Frontend 개발|React / JavaScript|
+|**프로젝트 내용**|**프로젝트 기간**|
+|------|---|
+|비전 트랜스포머 기반의 폭력 사태 감지 딥러닝 모델, '[VDVT](https://scottxchoo.xyz/pr-vdvt/)' 연구 및 모델 개발|23.09 - 23.12|
+|Cosmos 블록체인에서 Liquid Staking을 제공하는 DeFi, '[Supernova](https://github.com/scottXchoo/Supernova_Front-end)' Frontend 개발|22.06 - 23.02|
+|CosmWasm 컨트랙트 언어를 쉽고 재밌게 배울 수 있는 교육 웹사이트, '[COSMonaut](https://cosmonaut.cosmwasm.com/)' Frontend 개발|22.05 - 22.11|
 
 <br/>
 
