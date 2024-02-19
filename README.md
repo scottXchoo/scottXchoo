@@ -11,8 +11,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
 
 ### Open Source
-- Frontend 스타터 개발 | [Simple Starter for NextJS](https://github.com/scottXchoo/Simple_Starter_for_NextJS) | 23.09.18
-- 오탈자 수정 ([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
+- **Frontend 스타터 개발** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
+- **오탈자 수정** ([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
 
 <br/>
 
@@ -89,7 +89,7 @@
 |**프로젝트 내용**|**프로젝트 기간**|
 |------|---|
 |비전 트랜스포머 기반의 폭력 사태 감지 딥러닝 모델, '[VDVT](https://scottxchoo.xyz/pr-vdvt/)' 연구 및 모델 개발|23.09 - 23.12|
-|Cosmos 블록체인에서 Liquid Staking을 제공하는 DeFi, '[Supernova](https://github.com/scottXchoo/Supernova_Front-end)' Frontend 개발|22.06 - 23.02|
+|Cosmos 블록체인에서 Liquid Staking을 제공하는 DeFi, '[Supernova](https://github.com/scottXchoo/Supernova-Frontend)' Frontend 개발|22.06 - 23.02|
 |CosmWasm 컨트랙트 언어를 쉽고 재밌게 배울 수 있는 교육 웹사이트, '[COSMonaut](https://cosmonaut.cosmwasm.com/)' Frontend 개발|22.05 - 22.11|
 
 <br/>
