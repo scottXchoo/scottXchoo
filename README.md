@@ -6,21 +6,25 @@
 
 **E-mail |** ckh0601@gmail.com
 
+<a href="https://www.instagram.com/dev.chooble/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
+
 [Blog](https://scottxchoo.xyz/) | [LinkedIn](https://www.linkedin.com/in/%EA%B5%90%ED%98%84-%EC%B6%94-a61aa5155/) | [X(Twitter)](https://twitter.com/scottXchoo) | [Instagram](https://www.instagram.com/dev.chooble/) | [Portfolio](https://www.chooblog.xyz/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
-
-### Open Source
-- **Frontend 스타터 개발** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
-- **오탈자 수정** ([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
 
 <br/>
 
 <details>
   <summary>
-    <b>MORE INFO</b>
+    <h3><b>MORE INFO</b></h3>
   </summary>
   <div markdown="1">
+    
+### Open Source
+- **Frontend 스타터 개발** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
+- **오탈자 수정** ([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
+    
     <br/>
 
 🚀 **중앙대학교 기계공학부 & SW벤처융합전공** (25년 2월 졸업 예정)
