@@ -4,16 +4,12 @@
 
 성장을 가장 중요하게 생각하는 주니어 소프트웨어 엔지니어입니다😊
 
-**E-mail |** ckh0601@gmail.com
-
+<a href="https://scottxchoo.xyz/" target='_blank'><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=BlogLovin&logoColor=white"></a>
 <a href="https://www.instagram.com/dev.chooble/" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-
-
-[Blog](https://scottxchoo.xyz/) | [LinkedIn](https://www.linkedin.com/in/%EA%B5%90%ED%98%84-%EC%B6%94-a61aa5155/) | [X(Twitter)](https://twitter.com/scottXchoo) | [Instagram](https://www.instagram.com/dev.chooble/) | [Portfolio](https://www.chooblog.xyz/)
+<a href="https://www.linkedin.com/in/%EA%B5%90%ED%98%84-%EC%B6%94-a61aa5155/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="https://twitter.com/scottXchoo" target='_blank'><img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
-
-<br/>
 
 <details>
   <summary>
