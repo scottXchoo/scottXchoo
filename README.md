@@ -6,7 +6,7 @@
 
 **E-mail |** ckh0601@gmail.com
 
-<a href="https://www.instagram.com/dev.chooble/" target=blank><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/dev.chooble/" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 
 [Blog](https://scottxchoo.xyz/) | [LinkedIn](https://www.linkedin.com/in/%EA%B5%90%ED%98%84-%EC%B6%94-a61aa5155/) | [X(Twitter)](https://twitter.com/scottXchoo) | [Instagram](https://www.instagram.com/dev.chooble/) | [Portfolio](https://www.chooblog.xyz/)
