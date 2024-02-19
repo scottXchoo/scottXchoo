@@ -52,8 +52,8 @@ TBU
 ## 🏢 EXPERIENCE & ACTIVIY
 |**단체 및 소속**|**활동 기간**|**활동 내용**|
 |------|---|---|
-|중앙대학교|18.03 - 25.02 (예정)|중앙대학교 기계공학부 주전공|
-|중앙대학교|21.03 - 25.02 (예정)|중앙대학교 소프트웨어벤처 융합전공|
+|중앙대학교|21.03 - 25.02 (예정)|중앙대학교 소프트웨어벤처 (융합전공)|
+|중앙대학교|18.03 - 25.02 (예정)|중앙대학교 기계공학부 (주전공)|
 |A41|22.05 - 23.07|블록체인 스타트업 Junior Frontend Engineer 풀타임 근무|
 |CURG|21.12 - 23.05|블록체인 개발자 학회 President & Researcher 활동|
 |멋쟁이사자처럼 10th|22.03 - 22.08|대학생 IT 창업 동아리 멋쟁이사자처럼 10th Frontend 파트|
@@ -65,7 +65,7 @@ TBU
 ## 🗂️ PROJECT
 |프로젝트 기간|**프로젝트 내용**|**기술 스택**|
 |------|---|---|
-|23.09 - 23.12|비전 트랜스포머 기반의 폭력 사태 감지 딥러닝 모델, '[VDVT](https://scottxchoo.xyz/pr-vdvt/)' 연구 및 개발|Python / Tensorflow / Keras|
+|23.09 - 23.12|비전 트랜스포머 기반의 폭력 사태 감지 딥러닝 모델, '[VDVT](https://scottxchoo.xyz/pr-vdvt/)' 연구 및 모델 개발|Python / Tensorflow / Keras|
 |22.06 - 23.02|블록체인의 인터넷을 지향하는 Cosmos 블록체인에서 Liquid Staking을 제공하는 DeFi, '[Supernova](https://github.com/scottXchoo/Supernova_Front-end)' Frontend 개발|React / Next.js / TypeScript / React Query / Recoil|
 |22.05 - 22.11|CosmWasm 컨트랙트 언어를 쉽고 재밌게 배울 수 있는 교육 웹사이트, '[COSMonaut](https://cosmonaut.cosmwasm.com/)' Frontend 개발|React / JavaScript|
 
@@ -81,7 +81,14 @@ TBU
 |강원열린군대 군 창업동아리 경진대회|우수상 (군단장상)|20.12.31|육군 2군단|
 
 ### 자격증 및 어학
-|**자격증 이름**|**취득일자**|
-|---|---|
-|TEPS 305점|23.10.15|
+> 24년 계획의 일부라 '예정'이 많습니다.
+
+|**이름**|**취득 내용**|**취득일자**|
+|---|---|---|
+|SQLD (예정)|자격증 취득|24.07.01|
+|PCCP (예정)|Lv.4|24.06.01|
+|정보처리기사 (예정)|쟈격증 취득|24.08.01|
+|TOPCIT (예정)|400점|24.11.01|
+|OPIc (예정)|IH|24.02.23|
+|TEPS|305점|23.10.15|
 
