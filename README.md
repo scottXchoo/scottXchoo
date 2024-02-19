@@ -41,34 +41,6 @@
 - 블록체인 개발자 학회인 [**CURG**](http://www.curg.tech)를 **학회장으로서 약 1년간 운영**했고 [**블록체인 관련 리서치**](https://medium.com/curg/gasper-casper-ghost-5aa9c226265c)를 통해 **블록체인에 대한 지식**을 쌓았습니다.
   </div>
 </details>
-
-<br/>
-
-## 💻 TECH SKILLS
-### 📱 Frontend
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Recoil&logoColor=white">
-  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
-</div>
-
-### 💽 Backend
-<div>
-  <img src="https://img.shields.io/badge/Java-004027?style=for-the-badge&logo=Jameson&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-</div>
-
-### ⛓️ Blockchain & ML/DL
-<div>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-</div>
   
 <br/>
 
@@ -127,5 +99,35 @@
 
   </div>
 </details>
+
+<br/>
+
+## 💻 TECH SKILLS
+### 📱 Frontend
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+</div>
+
+### 💽 Backend
+<div>
+  <img src="https://img.shields.io/badge/Java-004027?style=for-the-badge&logo=Jameson&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+</div>
+
+### ⛓️ Blockchain & ML/DL
+<div>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+</div>
+
+<br/>
 
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottXchoo&show_icons=true)](https://github.com/scottXchoo/github-readme-stats)
