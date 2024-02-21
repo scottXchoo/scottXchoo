@@ -1,8 +1,11 @@
 # Scott Choo (추교현)
 
+![coverImage](https://github.com/scottXchoo/scottXchoo/assets/107841492/09cf1f36-e611-4a1b-84c7-ce412a060263)
+
+
 ## 👋🏼 ABOUT ME
 
-성장을 가장 중요하게 생각하는 주니어 소프트웨어 엔지니어입니다😊
+I'm a Junior Software Engineer who values **"growth"** the most😊
 
 <a href="https://scottxchoo.xyz/" target='_blank'><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=BlogLovin&logoColor=white"></a>
 <a href="https://www.instagram.com/dev.chooble/" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -18,7 +21,7 @@
   <div markdown="1">
     
 ### Open Source
-- **Frontend 스타터 개발** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
+- **Frontend Starter** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
 - **오탈자 수정** ([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
     
     <br/>
@@ -45,39 +48,39 @@
 <br/>
 
 ## 🏢 EXPERIENCE & ACTIVIY
-|**단체 및 소속**|**활동 기간**|**활동 내용**|
+|**TITLE**|**DESCRIPTION**|**PERIOD**|
 |------|---|---|
-|중앙대학교|21.09 - 25.02 (예정)|중앙대학교 소프트웨어벤처 (융합전공)|
-|중앙대학교|18.03 - 25.02 (예정)|중앙대학교 기계공학부 (주전공)|
-|A41|22.05 - 23.07|블록체인 스타트업 Junior Frontend Engineer 풀타임 근무|
-|CURG|21.12 - 23.05|블록체인 개발자 학회 President & Researcher 활동|
-|멋쟁이사자처럼 10th|22.03 - 22.08|대학생 IT 창업 동아리 멋쟁이사자처럼 10th Frontend 파트|
-|KT&G 상상 스타트업 캠프 6기|21.12 - 22.03|사회혁신 창업 액셀러레이팅 프로그램 6기 참여 및 수료|
-|대학생 셰어하우스 사업|21.06 - ing|중앙대학교 중문 1분 거리 대학생 셰어하우스 1호점 운영 중|
+|중앙대학교(CAU)|소프트웨어벤처 (융합전공)|21.09 - 25.02 (예정)|
+|중앙대학교(CAU)|기계공학부 (주전공)|18.03 - 25.02 (예정)|
+|A41|블록체인 스타트업 Junior Frontend Engineer Full-Time|22.05 - 23.07|
+|CURG|블록체인 개발자 학회 President & Researcher|21.12 - 23.05|
+|LikeLion 10th|대학생 IT 창업 동아리 멋쟁이사자처럼 10th Frontend|22.03 - 22.08|
+|KT&G 상상 스타트업 캠프 6기|사회혁신 창업 액셀러레이팅 프로그램 6기 참여 및 수료|21.12 - 22.03|
+|대학생 셰어하우스 사업|중앙대학교 중문 1분 거리 대학생 셰어하우스 1호점 운영|21.06 - ing|
 
 <br/>
 
 ## 🗂️ PROJECT
-|**프로젝트 내용**|**프로젝트 기간**|
-|------|---|
-|비전 트랜스포머 기반의 폭력 사태 감지 딥러닝 모델, '[VDVT](https://scottxchoo.xyz/pr-vdvt/)' 연구 및 모델 개발|23.09 - 23.12|
-|Cosmos 블록체인에서 Liquid Staking을 제공하는 DeFi, '[Supernova](https://github.com/scottXchoo/Supernova-Frontend)' Frontend 개발|22.06 - 23.02|
-|CosmWasm 컨트랙트 언어를 쉽고 재밌게 배울 수 있는 교육 웹사이트, '[COSMonaut](https://cosmonaut.cosmwasm.com/)' Frontend 개발|22.05 - 22.11|
+|**TITLE**|**DESCRIPTION**|**PERIOD**|
+|------|---|---|
+|[VDVT](https://scottxchoo.xyz/pr-vdvt/)|Vision Transformer 기반의 폭력 사태 감지 딥러닝 모델 개발 및 연구|23.09 - 23.12|
+|[Supernova](https://github.com/scottXchoo/Supernova-Frontend)|Cosmos 블록체인에서 Liquid Staking을 제공하는 DeFi Frontend 개발|22.06 - 23.02|
+|[COSMonaut](https://cosmonaut.cosmwasm.com/)|CosmWasm 컨트랙트 언어를 쉽고 재밌게 배울 수 있는 교육 웹사이트 Frontend 개발|22.05 - 22.11|
 
 <br/>
 
 ## 🏆 AWARDS & CERTIFICATES
-### 수상 경력
-|**대회명**|**수상내역**|**수상일자**|**수여기관**|
+### AWARDS
+|**TITLE**|**AWARD**|**ORGANIZATION**|**DATE**|
 |------|---|---|------|
-|CAU 캡스톤디자인 경진대회|우수상 (창업)|23.12.08|중앙대학교 LINC 3.0 사업단|
-|Archway Hackathon|2nd Prize (Infra/Tooling Track)|23.05.06|Phi Labs|
-|HACKATOM Seoul|1nd Prize (Interoperability Track)|22.07.31|KryptoSeoul|
-|강원열린군대 군 창업동아리 경진대회|우수상 (군단장상)|20.12.31|육군 2군단|
+|CAU 캡스톤디자인 경진대회|우수상 (창업)|중앙대학교 LINC 3.0 사업단|23.12.08|
+|Archway Hackathon|2nd Prize (Infra/Tooling Track)|Phi Labs|23.05.06|
+|HACKATOM Seoul|1nd Prize (Interoperability Track)|KryptoSeoul|22.07.31|
+|강원열린군대 군 창업동아리 경진대회|우수상 (군단장상)|육군 2군단|20.12.31|
 
-### 자격증 및 어학
+### CERTIFICATES
 
-|**이름**|**취득 내용**|**취득일자**|
+|**TITLE**|**SCORE**|**DATE**|
 |---|---|---|
 |TEPS|305점|23.10.15|
 
@@ -88,7 +91,7 @@
   <div markdown="1">
 <br>
     
-|**이름**|**취득 내용**|**취득일자**|
+|**TITLE**|**SCORE**|**DATE**|
 |---|---|---|
 |SQLD|자격증|24.07.01|
 |PCCP|Lv.4|24.06.01|
