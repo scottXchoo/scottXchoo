@@ -134,3 +134,5 @@ I'm a Junior Software Engineer who values **"growth"** the most😊
 <br/>
 
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottXchoo&show_icons=true)](https://github.com/scottXchoo/github-readme-stats)
+<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FscottXchoo&count_bg=%23FE6F00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HELLO&edge_flat=true)](https://hits.seeyoufarm.com)
