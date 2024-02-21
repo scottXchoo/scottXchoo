@@ -20,11 +20,28 @@ I'm a Junior Software Engineer who values **"growth"** the most😊
   </summary>
   <div markdown="1">
     
-### Open Source
+### OPEN SOURCE
 - **Build 'Frontend Starter'** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
-- **Typo Correction** ([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
+- **Typo Correction**([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
     
     <br/>
+
+### MAJOR COURSES
+|**NAME**|**SCORE**|
+|------|---|
+|객체지향프로그래밍|A+|
+|이미지 및 자연어 처리를 위한 딥러닝|A+|
+|공업수학(1)|A+|
+|선형대수학|B+|
+|미적분학(1)|A+|
+|운영체제|예정|
+|알고리즘|예정|
+|자료구조|예정|
+|소프트웨어프로젝트|예정|
+|파이썬과 인공지능|예정|
+|컴퓨터구조|예정|
+
+  <br/>
 
 🚀 **중앙대학교 기계공학부 & SW벤처융합전공** (25년 2월 졸업 예정)
     
