@@ -21,8 +21,8 @@ I'm a Junior Software Engineer who values **"growth"** the most😊
   <div markdown="1">
     
 ### Open Source
-- **Frontend Starter** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
-- **오탈자 수정** ([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
+- **Build 'Frontend Starter'** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
+- **Typo Correction** ([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
     
     <br/>
 
