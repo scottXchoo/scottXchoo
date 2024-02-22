@@ -97,6 +97,7 @@ I'm a Junior Software Engineer who values **"growth"** the most 😊
 
 |**TITLE**|**SCORE**|**DATE**|
 |---|---|---|
+|OPIc|IH|24.02.22|
 |TEPS|305점|23.10.15|
 
 <details>
@@ -113,7 +114,6 @@ I'm a Junior Software Engineer who values **"growth"** the most 😊
 |PCSQL|Lv.4|24.06.01|
 |정보처리기사|쟈격증|24.08.01|
 |TOPCIT|400점|24.11.01|
-|OPIc|IL|24.02.23|
 
   </div>
 </details>
