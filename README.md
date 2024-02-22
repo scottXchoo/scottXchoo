@@ -5,7 +5,7 @@
 
 ## 👋🏼 ABOUT ME
 
-I'm a Junior Software Engineer who values **"growth"** the most😊
+I'm a Junior Software Engineer who values **"growth"** the most 😊
 
 <a href="https://scottxchoo.xyz/" target='_blank'><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=BlogLovin&logoColor=white"></a>
 <a href="https://www.instagram.com/dev.chooble/" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -21,7 +21,7 @@ I'm a Junior Software Engineer who values **"growth"** the most😊
   <div markdown="1">
     
 ### OPEN SOURCE
-- **Build 'Frontend Starter'** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
+- **Build Project** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
 - **Typo Correction**([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
     
     <br/>
@@ -67,8 +67,7 @@ I'm a Junior Software Engineer who values **"growth"** the most😊
 ## 🏢 EXPERIENCE & ACTIVIY
 |**TITLE**|**DESCRIPTION**|**PERIOD**|
 |------|---|---|
-|중앙대학교(CAU)|소프트웨어벤처 (융합전공)|21.09 - 25.02 (예정)|
-|중앙대학교(CAU)|기계공학부 (주전공)|18.03 - 25.02 (예정)|
+|중앙대학교(CAU)|기계공학부 & 소프트웨어벤처|18.03 - 25.02 (예정)|
 |A41|블록체인 스타트업 Junior Frontend Engineer Full-Time|22.05 - 23.07|
 |CURG|블록체인 개발자 학회 President & Researcher|21.12 - 23.05|
 |LikeLion 10th|대학생 IT 창업 동아리 멋쟁이사자처럼 10th Frontend|22.03 - 22.08|
@@ -92,7 +91,6 @@ I'm a Junior Software Engineer who values **"growth"** the most😊
 |------|---|---|------|
 |CAU 캡스톤디자인 경진대회|우수상 (창업)|중앙대학교 LINC 3.0 사업단|23.12.08|
 |Archway Hackathon|2nd Prize (Infra/Tooling Track)|Phi Labs|23.05.06|
-|HACKATOM Seoul|1nd Prize (Interoperability Track)|KryptoSeoul|22.07.31|
 |강원열린군대 군 창업동아리 경진대회|우수상 (군단장상)|육군 2군단|20.12.31|
 
 ### CERTIFICATES
@@ -110,12 +108,12 @@ I'm a Junior Software Engineer who values **"growth"** the most😊
     
 |**TITLE**|**SCORE**|**DATE**|
 |---|---|---|
-|SQLD|자격증|24.07.01|
+|SQLD|자격증|24.05.01|
 |PCCP|Lv.4|24.06.01|
 |PCSQL|Lv.4|24.06.01|
 |정보처리기사|쟈격증|24.08.01|
 |TOPCIT|400점|24.11.01|
-|OPIc|IH|24.02.23|
+|OPIc|IL|24.02.23|
 
   </div>
 </details>
@@ -140,9 +138,8 @@ I'm a Junior Software Engineer who values **"growth"** the most😊
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
-### ⛓️ Blockchain & ML/DL
+### 🤖 ML/DL
 <div>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
