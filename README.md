@@ -68,8 +68,8 @@ I'm a Junior Software Engineer who values **"growth"** the most 😊
 |**TITLE**|**DESCRIPTION**|**PERIOD**|
 |------|---|---|
 |중앙대학교(CAU)|기계공학부 & 소프트웨어벤처|18.03 - 25.02 (예정)|
-|A41|블록체인 스타트업 Junior Frontend Engineer Full-Time|22.05 - 23.07|
-|CURG|블록체인 개발자 학회 President & Researcher|21.12 - 23.05|
+|A41|블록체인 스타트업 Junior Frontend Engineer(Full-Time)|22.05 - 23.07|
+|CURG|블록체인 개발자 학회 President(1Y) & Researcher(5M)|21.12 - 23.05|
 |LikeLion 10th|대학생 IT 창업 동아리 멋쟁이사자처럼 10th Frontend|22.03 - 22.08|
 |KT&G 상상 스타트업 캠프 6기|사회혁신 창업 액셀러레이팅 프로그램 6기 참여 및 수료|21.12 - 22.03|
 |대학생 셰어하우스 사업|중앙대학교 중문 1분 거리 대학생 셰어하우스 1호점 운영|21.06 - ing|
