@@ -20,13 +20,13 @@ I'm a Junior Software Engineer who values **"growth"** the most 😊
   </summary>
   <div markdown="1">
     
-### OPEN SOURCE
+### OPEN SOURCE (오픈소스 기여)
 - **Build Project** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
 - **Typo Correction**([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
     
     <br/>
 
-### MAJOR COURSES
+### MAJOR COURSES (주요 수강 과목)
 |**NAME**|**SCORE**|
 |------|---|
 |객체지향프로그래밍|A+|
@@ -43,6 +43,7 @@ I'm a Junior Software Engineer who values **"growth"** the most 😊
 
   <br/>
 
+### MORE INFO (구체적인 소개)
 🚀 **중앙대학교 기계공학부 & SW벤처융합전공** (25년 2월 졸업 예정)
     
 - 손가락 몇 번 움직이는 것으로 **무한대에 가까운 영향력을 행사**할 수 있는 소프트웨어 개발에 매력을 느껴 기계공학도에서 소프트웨어 엔지니어가 되었습니다.
