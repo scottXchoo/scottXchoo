@@ -5,7 +5,7 @@
 
 ## 👋🏼 ABOUT ME
 
-I'm a Junior Software Engineer who values **"growth"** the most 😊
+I'm a Junior Software Engineer who values **"growth"** the most. I'm currently the best at **"Frontend development"** 😊
 
 <a href="https://scottxchoo.xyz/" target='_blank'><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=BlogLovin&logoColor=white"></a>
 <a href="https://www.instagram.com/dev.chooble/" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
