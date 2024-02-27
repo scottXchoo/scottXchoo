@@ -16,15 +16,16 @@ I'm a Junior Software Engineer who values **"growth"** the most. I'm currently t
 
 <details>
   <summary>
-    <h3><b>MORE INFO</b></h3>
+    <b>MORE INFO</b>
   </summary>
+  
   <div markdown="1">
     
 ### OPEN SOURCE (오픈소스 기여)
 - **Build Project** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
 - **Typo Correction**([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
     
-    <br/>
+  <br/>
 
 ### MAJOR COURSES (주요 수강 과목)
 |**NAME**|**SCORE**|
@@ -34,12 +35,12 @@ I'm a Junior Software Engineer who values **"growth"** the most. I'm currently t
 |공업수학(1)|A+|
 |선형대수학|B+|
 |미적분학(1)|A+|
-|운영체제|예정|
-|알고리즘|예정|
-|자료구조|예정|
-|소프트웨어프로젝트|예정|
-|파이썬과 인공지능|예정|
-|컴퓨터구조|예정|
+|운영체제|24년 1학기 예정|
+|알고리즘|24년 1학기 예정|
+|자료구조|24년 1학기 예정|
+|소프트웨어프로젝트|24년 1학기 예정|
+|파이썬과 인공지능|24년 1학기 예정|
+|컴퓨터구조|24년 2학기 예정|
 
   <br/>
 
