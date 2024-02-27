@@ -114,7 +114,7 @@ I'm a Junior Software Engineer who values **"growth"** the most. I'm currently t
 |SQLD|자격증|24.05.01|
 |PCCP|Lv.4|24.06.01|
 |PCSQL|Lv.4|24.06.01|
-|정보처리기사|쟈격증|24.08.01|
+|정보처리기사|자격증|24.08.01|
 |TOPCIT|400점|24.11.01|
 
   </div>
