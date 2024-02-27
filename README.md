@@ -136,14 +136,6 @@ I'm a Junior Software Engineer who values **"growth"** the most 😊
 <div>
   <img src="https://img.shields.io/badge/Java-004027?style=for-the-badge&logo=Jameson&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-</div>
-
-### 🤖 ML/DL
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </div>
 
 <br/>
