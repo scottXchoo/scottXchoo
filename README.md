@@ -39,7 +39,6 @@ I'm a Junior Software Engineer who values **"growth"** the most. I'm currently t
 |알고리즘|24년 1학기 예정|
 |자료구조|24년 1학기 예정|
 |소프트웨어프로젝트|24년 1학기 예정|
-|파이썬과 인공지능|24년 1학기 예정|
 |컴퓨터구조|24년 2학기 예정|
 
   <br/>
