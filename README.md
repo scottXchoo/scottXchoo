@@ -1,11 +1,12 @@
-# Scott Choo (추교현)
+# 추교현 (Scott Choo)
 
-![coverImage](https://github.com/scottXchoo/scottXchoo/assets/107841492/09cf1f36-e611-4a1b-84c7-ce412a060263)
-
+![2 (2배)](https://github.com/scottXchoo/scottXchoo/assets/107841492/5a2266c7-47a4-41c4-8851-0073065a030f)
 
 ## 👋🏼 ABOUT ME
 
-I'm a Junior Software Engineer who values **"growth"** the most. I'm currently the best at **"Frontend development"** 😊
+저는 **피드백을 감사히 여기는** 프론트엔드 엔지니어입니다. **꾸준한 성장**을 가장 중요하게 생각합니다😊
+
+**Email :** ckh0601@gmail.com
 
 <a href="https://scottxchoo.xyz/" target='_blank'><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=BlogLovin&logoColor=white"></a>
 <a href="https://www.instagram.com/dev.chooble/" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -16,18 +17,20 @@ I'm a Junior Software Engineer who values **"growth"** the most. I'm currently t
 
 <details>
   <summary>
-    <b>MORE INFO</b>
+    <b>✚ MORE INFO</b>
   </summary>
   
   <div markdown="1">
     
-### OPEN SOURCE (오픈소스 기여)
-- **Build Project** | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | 23.09.18
-- **Typo Correction**([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | [docu-notion](https://github.com/sillsdev/docu-notion) | 23.08.05
+### 🎮 OPEN SOURCE (오픈소스 기여)
+| NAME | DESCRIPTION | DATE |
+| --- | --- | --- |
+| [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | FE 개발자를 위한 프로젝트 초기 세팅 스타터 | 23.09.18 |
+| [Docu Notion](https://github.com/sillsdev/docu-notion) | 오탈자 수정([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | 23.08.05 |
     
   <br/>
 
-### MAJOR COURSES (주요 수강 과목)
+### 🏫 MAJOR COURSES (주요 수강 과목)
 |**NAME**|**SCORE**|
 |------|---|
 |객체지향프로그래밍|A+|
@@ -42,24 +45,6 @@ I'm a Junior Software Engineer who values **"growth"** the most. I'm currently t
 |컴퓨터구조|24년 2학기 예정|
 
   <br/>
-
-### MORE INFO (구체적인 소개)
-🚀 **중앙대학교 기계공학부 & SW벤처융합전공** (25년 2월 졸업 예정)
-    
-- 손가락 몇 번 움직이는 것으로 **무한대에 가까운 영향력을 행사**할 수 있는 소프트웨어 개발에 매력을 느껴 기계공학도에서 소프트웨어 엔지니어가 되었습니다.
-- 개발자 생태계 활성화에 기여하는 **오픈소스 프로젝트들**과 단기간 압축 성장할 수 있는 **해커톤 참가**를 좋아합니다.
-<br/>
-
-🔥 **약 1년 3개월 동안** Seed 150억 투자받은 [스타트업](https://www.a41.io/)에서 **프론트엔드 엔지니어**로 근무한 경험
-
-- **주어진 일을 어떻게든 수행**하기 위해서 며칠씩 야근하며 밤을 새울 수 있는 **끈기와 열정**을 갖고 있습니다.
-- 팀원들과 원활하게 협업하는데 필요한 **의사소통 능력**을 갖고 있어서 회사 동료분들과 트러블 없이 **즐겁게 회사 생활**을 했습니다.
-<br/>
-
-🎯 **프론트엔드 개발을 중심**으로 백엔드, 블록체인, ML/DL 등 여러 기술을 적절히 잘 사용하는 풀스택 소프트웨어 엔지니어가 장기적인 목표
-
-- [**컴퓨터 비전 관련 딥러닝 프로젝트**](https://scottxchoo.xyz/pr-vdvt/)를 통해 **AI 도메인 지식**을 쌓았습니다.
-- 블록체인 개발자 학회인 [**CURG**](http://www.curg.tech)를 **학회장으로서 약 1년간 운영**했고 [**블록체인 관련 리서치**](https://medium.com/curg/gasper-casper-ghost-5aa9c226265c)를 통해 **블록체인에 대한 지식**을 쌓았습니다.
   </div>
 </details>
   
@@ -78,11 +63,11 @@ I'm a Junior Software Engineer who values **"growth"** the most. I'm currently t
 <br/>
 
 ## 🗂️ PROJECT
-|**TITLE**|**DESCRIPTION**|**PERIOD**|
-|------|---|---|
-|[VDVT](https://scottxchoo.xyz/pr-vdvt/)|Vision Transformer 기반의 폭력 사태 감지 딥러닝 모델 개발 및 연구|23.09 - 23.12|
-|[Supernova](https://github.com/scottXchoo/Supernova-Frontend)|Cosmos 블록체인에서 Liquid Staking을 제공하는 DeFi Frontend 개발|22.06 - 23.02|
-|[COSMonaut](https://cosmonaut.cosmwasm.com/)|CosmWasm 컨트랙트 언어를 쉽고 재밌게 배울 수 있는 교육 웹사이트 Frontend 개발|22.05 - 22.11|
+|**TITLE**|**DESCRIPTION**|**PERIOD**|**WEBSITE**|
+|------|---|---|---|
+|[VDVT](https://scottxchoo.xyz/pr-vdvt/)|Vision Transformer 기반의 폭력 사태 감지 딥러닝 모델 개발 및 연구|23.09 - 23.12||
+|[Supernova](https://github.com/scottXchoo/Supernova-Frontend)|Cosmos 블록체인에서 Liquid Staking을 제공하는 DeFi Frontend 개발|22.06 - 23.02||
+|[COSMonaut](https://github.com/scottXchoo/Cosmonaut-Frontend)|CosmWasm 컨트랙트 언어를 쉽고 재밌게 배울 수 있는 교육 웹사이트 Frontend 개발|22.05 - 22.11|[Website](https://cosmonaut.cosmwasm.com/)|
 
 <br/>
 
@@ -100,6 +85,7 @@ I'm a Junior Software Engineer who values **"growth"** the most. I'm currently t
 |---|---|---|
 |OPIc|IH|24.02.22|
 |TEPS|305점|23.10.15|
+|PCCP|Lv.1|24.03.10|
 
 <details>
   <summary>
@@ -111,7 +97,6 @@ I'm a Junior Software Engineer who values **"growth"** the most. I'm currently t
 |**TITLE**|**SCORE**|**DATE**|
 |---|---|---|
 |SQLD|자격증|24.05.01|
-|PCCP|Lv.4|24.06.01|
 |PCSQL|Lv.4|24.06.01|
 |정보처리기사|자격증|24.08.01|
 |TOPCIT|400점|24.11.01|
