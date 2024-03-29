@@ -8,12 +8,13 @@
 
 **Email :** ckh0601@gmail.com
 
-<a href="https://scottxchoo.xyz/" target='_blank'><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=BlogLovin&logoColor=white"></a>
-<a href="https://www.instagram.com/dev.chooble/" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/%EA%B5%90%ED%98%84-%EC%B6%94-a61aa5155/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-<a href="https://twitter.com/scottXchoo" target='_blank'><img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="https://www.chooblog.xyz/blog" target='_blank'><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=BlogLovin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/devchooble" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="https://twitter.com/dev_chooble" target='_blank'><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="https://www.youtube.com/@dev.chooble" target='_blank'><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://www.instagram.com/dev.chooble" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.threads.net/@dev.chooble" target='_blank'><img src="https://img.shields.io/badge/Thread-000000?style=for-the-badge&logo=threads&logoColor=white"></a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
 
 <details>
   <summary>
@@ -45,7 +46,10 @@
 |컴퓨터구조|24년 2학기 예정|
 
   <br/>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
   </div>
+  
 </details>
   
 <br/>
