@@ -1,10 +1,6 @@
 # 추교현 (Scott Choo)
 
-![2 (2배)](https://github.com/scottXchoo/scottXchoo/assets/107841492/5a2266c7-47a4-41c4-8851-0073065a030f)
-
 ## 👋🏼 ABOUT ME
-
-**깔끔한 UI**와 **매끄러운 UX**를 좋아하는 **프론트엔드 엔지니어**입니다.
 
 **탄탄한 기본기**와 **꾸준한 성장**을 가장 중요하게 생각합니다😊
 
@@ -17,6 +13,7 @@
 <a href="https://www.instagram.com/dev.chooble" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.threads.net/@dev.chooble" target='_blank'><img src="https://img.shields.io/badge/Thread-000000?style=for-the-badge&logo=threads&logoColor=white"></a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
 
 <details>
   <summary>
@@ -24,14 +21,6 @@
   </summary>
   
   <div markdown="1">
-    
-### 🎮 OPEN SOURCE (오픈소스 기여)
-| NAME | DESCRIPTION | DATE |
-| --- | --- | --- |
-| [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | FE 개발자를 위한 프로젝트 초기 세팅 스타터 | 23.09.18 |
-| [Docu Notion](https://github.com/sillsdev/docu-notion) | 오탈자 수정([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | 23.08.05 |
-    
-  <br/>
 
 ### 🏫 MAJOR COURSES (주요 수강 과목)
 |**NAME**|**SCORE**|
@@ -49,7 +38,14 @@
 
   <br/>
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
+### 🎮 OPEN SOURCE (오픈소스 기여)
+| NAME | DESCRIPTION | DATE |
+| --- | --- | --- |
+| [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | FE 개발자를 위한 프로젝트 초기 세팅 스타터 | 23.09.18 |
+| [Docu Notion](https://github.com/sillsdev/docu-notion) | 오탈자 수정([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | 23.08.05 |
+    
+  <br/>
+  
   </div>
   
 </details>
@@ -57,14 +53,14 @@
 <br/>
 
 ## 🏢 EXPERIENCE & ACTIVIY
-|**TITLE**|**DESCRIPTION**|**PERIOD**|
+|**TITLE**|**PERIOD**|**DESCRIPTION**|
 |------|---|---|
-|중앙대학교(CAU)|기계공학부 & 소프트웨어벤처|18.03 - 25.02 (예정)|
-|A41|블록체인 스타트업 Junior Frontend Engineer(Full-Time)|22.05 - 23.07|
-|CURG|블록체인 개발자 학회 President(1Y) & Researcher(5M)|21.12 - 23.05|
-|LikeLion 10th|대학생 IT 창업 동아리 멋쟁이사자처럼 10th Frontend|22.03 - 22.08|
-|KT&G 상상 스타트업 캠프 6기|사회혁신 창업 액셀러레이팅 프로그램 6기 참여 및 수료|21.12 - 22.03|
-|대학생 셰어하우스 사업|중앙대학교 중문 1분 거리 대학생 셰어하우스 1호점 운영|21.06 - ING|
+|중앙대학교(CAU)|18.03 - 25.02 (예정)|기계공학부 & 소프트웨어벤처|
+|A41|22.05 - 23.07|블록체인 스타트업 Junior Front-End Engineer|
+|CURG|21.12 - 23.05|블록체인 개발자 학회 학회장(22.05 ~ 23.05) & 리서처|
+|LikeLion 10th|22.03 - 22.08|대학생 IT 창업 동아리 멋쟁이사자처럼 10th Front-End|
+|KT&G 상상 스타트업 캠프 6기|21.12 - 22.03|사회혁신 창업 액셀러레이팅 프로그램 6기 참여 및 수료|
+|대학생 셰어하우스 사업|21.06 - ING|중앙대학교 중문 1분 거리 대학생 셰어하우스 1호점 운영|
 
 <br/>
 
