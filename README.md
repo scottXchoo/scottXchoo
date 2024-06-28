@@ -26,12 +26,12 @@
 |운영체제 (OS)|24년 1학기 예정|
 |알고리즘 (Algorithm)|24년 1학기 예정|
 |자료구조 (Data Structure)|24년 1학기 예정|
+|컴퓨터통신 (Computer Network)|24년 2학기 예정|
+|컴퓨터구조 (Computer Architecture)|24년 2학기 예정|
 |객체지향프로그래밍 (OOP)|A+|
 |이미지 및 자연어 처리를 위한 딥러닝 (DL)|A+|
 |공업수학(1) (Engineering Mathematics)|A+|
 |미적분학(1) (Calculus)|A+|
-|컴퓨터구조 (Computer Architecture)|24년 2학기 예정|
-|컴퓨터통신 (Network)|24년 2학기 예정|
 
     
 <br/>
