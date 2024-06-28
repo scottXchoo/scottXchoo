@@ -64,7 +64,7 @@
 |🤖 [스레드 관리](https://www.chooblog.xyz/project/threads)|스레드 관리 : 자동화 물류 센터 시뮬레이터 개발 with Pintos|24.03 - 24.06|
 |👀 [VDVT](https://www.chooblog.xyz/project/vdvt)|Vision Transformer 기반의 폭력 사태 감지 딥러닝 모델 개발 및 연구|23.09 - 23.12||
 |🛰️ [Supernova](https://www.chooblog.xyz/project/supernova)|블록체인의 인터넷을 지향하는 Cosmos 블록체인에서 Liquid Staking을 제공하는 DeFi|22.06 - 23.02||
-|🧑🏼‍🚀 [COSMonaut](https://github.com/scottXchoo/Cosmonaut-Frontend)|CosmWasm 컨트랙트 언어를 쉽고 재밌게 배울 수 있는 교육 웹사이트|22.05 - 22.11|
+|🧑🏼‍🚀 [COSMonaut](https://www.chooblog.xyz/project/cosmonaut)|CosmWasm 컨트랙트 언어를 쉽고 재밌게 배울 수 있는 교육 웹사이트|22.05 - 22.11|
 
 <br/>
 
@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Recoil&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=black">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white">
 </div>
 
 ### [Knowledgeable]
