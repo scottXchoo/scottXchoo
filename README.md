@@ -1,19 +1,23 @@
-# 추교현 (Scott Choo)
+# Scott Choo (추교현)
 
 ## 👋🏼 ABOUT ME
 
-**탄탄한 기본기**와 **꾸준한 성장**을 가장 중요하게 생각합니다😊
+**분산 시스템**(블록체인 등)과 **서버리스 컴퓨팅**에 관심이 많은 **소프트웨어 엔지니어**입니다.
 
-**Email :** ckh0601@gmail.com
+1년 넘게 [**블록체인 스타트업**](https://www.chooblog.xyz/career/a41)에서 프론트엔드 엔지니어로 근무했으며 [**블록체인 학회**](https://www.chooblog.xyz/career/curg)의 학회장을 1년 정도 역임했습니다.
 
-<a href="https://www.chooblog.xyz/blog" target='_blank'><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=BlogLovin&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/devchooble" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-<a href="https://twitter.com/dev_chooble" target='_blank'><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"></a>
-<a href="https://www.youtube.com/@dev.chooble" target='_blank'><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-<a href="https://www.instagram.com/dev.chooble" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://www.threads.net/@dev.chooble" target='_blank'><img src="https://img.shields.io/badge/Thread-000000?style=for-the-badge&logo=threads&logoColor=white"></a>
+**25년 2월에 학부 졸업 예정**이며 [**Computer System Labs**](https://www.cslab.cau.ac.kr/home)에서 학부 연구생으로서 **컴퓨터 시스템 연구**에 참여하고 있습니다.
+
+### 🎖️ ALGORITHM
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
+
+> **24년 상반기 네이버 코딩테스트 :** 1.5문제 / 3문제
+
+- **백준(BOJ) :** 238문제 (Silver 75, Gold 51, Platinum 3)
+- **프로그래머스 :** 94문제
+- **LeetCode :** 43문제 (Easy 5, Medium 26, Hard 12)
+- **=)** 총 375문제 해결
 
 <details>
   <summary>
