@@ -23,9 +23,9 @@
 
 |**NAME**|**GRADE**|
 |------|---|
-|운영체제 (OS)|24년 1학기 예정|
-|알고리즘 (Algorithm)|24년 1학기 예정|
-|자료구조 (Data Structure)|24년 1학기 예정|
+|운영체제 (OS)|A+|
+|알고리즘 (Algorithm)|A+|
+|자료구조 (Data Structure)|A+|
 |컴퓨터통신 (Computer Network)|24년 2학기 예정|
 |컴퓨터구조 (Computer Architecture)|24년 2학기 예정|
 |객체지향프로그래밍 (OOP)|A+|
