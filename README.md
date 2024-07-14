@@ -2,11 +2,11 @@
 
 ## 👋🏼 ABOUT ME
 
-**블록체인 & 머신러닝/딥러닝**에 관심이 많은 **소프트웨어 엔지니어**이며 목표는 **세상에 선한 영향력을 널리 퍼뜨리는 것**입니다.
+- **블록체인 & 머신러닝/딥러닝**에 관심이 많은 **소프트웨어 엔지니어**이며 목표는 **세상에 선한 영향력을 널리 퍼뜨리는 것**입니다.
 
-1년 3개월 간 [**블록체인 스타트업**](https://www.chooblog.xyz/career/a41)에서 프론트엔드 엔지니어로 근무했으며 [**블록체인 학회**](https://www.chooblog.xyz/career/curg)의 학회장을 1년 정도 역임했습니다.
+- 1년 3개월 간 [**블록체인 스타트업**](https://www.chooblog.xyz/career/a41)에서 프론트엔드 엔지니어로 근무했으며 [**블록체인 학회**](https://www.chooblog.xyz/career/curg)의 학회장을 1년 정도 역임했습니다.
 
-**25년 2월에 학부 졸업 예정**이며 [**Computer System Labs**](https://www.cslab.cau.ac.kr/home)에서 학부 연구생으로서 **컴퓨터 시스템 연구**에 참여하고 있습니다.
+- **25년 2월에 학부 졸업 예정**이며 [**Computer System Labs**](https://www.cslab.cau.ac.kr/home)에서 학부 연구생으로서 **컴퓨터 시스템 연구**에 참여하고 있습니다.
 
 ### 🎖️ ALGORITHM
 
