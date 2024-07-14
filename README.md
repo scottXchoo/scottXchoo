@@ -23,15 +23,17 @@
 
 |**NAME**|**GRADE**|
 |------|---|
-|운영체제 (OS)|A+|
-|알고리즘 (Algorithm)|A+|
-|자료구조 (Data Structure)|A+|
-|컴퓨터통신 (Computer Network)|24년 2학기 예정|
-|컴퓨터구조 (Computer Architecture)|24년 2학기 예정|
-|객체지향프로그래밍 (OOP)|A+|
-|이미지 및 자연어 처리를 위한 딥러닝 (DL)|A+|
-|공업수학(1) (Engineering Mathematics)|A+|
-|미적분학(1) (Calculus)|A+|
+|**운영체제** (OS)|A+|
+|**알고리즘** (Algorithm)|A+|
+|**자료구조** (Data Structure)|A+|
+|**컴퓨터통신** (Computer Network)|24년 2학기 예정|
+|**컴퓨터구조** (Computer Architecture)|24년 2학기 예정|
+|**데이터베이스설계** (Database)|24년 2학기 예정|
+|**인공지능** (AI)|24년 2학기 예정|
+|**이미지 및 자연어 처리를 위한 딥러닝** (DL for CV & NLP)|A+|
+|**객체지향프로그래밍** (OOP)|A+|
+|**공업수학** (Engineering Mathematics)|A+|
+|**미적분학** (Calculus)|A+|
 
     
 <br/>
