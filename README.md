@@ -24,9 +24,9 @@
 
 |**NAME**|**GRADE**|
 |------|---|
-|**운영체제** (OS)|A+|
 |**알고리즘** (Algorithm)|A+|
 |**자료구조** (Data Structure)|A+|
+|**운영체제** (Operating System)|A+|
 |**컴퓨터구조** (Computer Architecture)|24년 2학기 예정|
 |**컴퓨터통신** (Computer Network)|24년 2학기 예정|
 |**데이터베이스 설계** (Database)|24년 2학기 예정|
