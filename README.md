@@ -2,9 +2,9 @@
 
 ## 👋🏼 ABOUT ME
 
-**분산 시스템**(블록체인 등)과 **서버리스 컴퓨팅**에 관심이 많은 **소프트웨어 엔지니어**입니다.
+**블록체인 & 머신러닝/딥러닝**에 관심이 많은 **소프트웨어 엔지니어**입니다.
 
-1년 넘게 [**블록체인 스타트업**](https://www.chooblog.xyz/career/a41)에서 프론트엔드 엔지니어로 근무했으며 [**블록체인 학회**](https://www.chooblog.xyz/career/curg)의 학회장을 1년 정도 역임했습니다.
+1년 3개월 간 [**블록체인 스타트업**](https://www.chooblog.xyz/career/a41)에서 프론트엔드 엔지니어로 근무했으며 [**블록체인 학회**](https://www.chooblog.xyz/career/curg)의 학회장을 1년 정도 역임했습니다.
 
 **25년 2월에 학부 졸업 예정**이며 [**Computer System Labs**](https://www.cslab.cau.ac.kr/home)에서 학부 연구생으로서 **컴퓨터 시스템 연구**에 참여하고 있습니다.
 
