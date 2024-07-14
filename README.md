@@ -22,7 +22,7 @@
 ### 🏫 MAJOR SUBJECTS
 > 컴퓨터공학 과목 평점 : 4.21 / 4.5
 
-|**NAME**|**GRADE**|
+|**SUBJECT**|**GRADE**|
 |------|---|
 |**알고리즘** (Algorithm)|A+|
 |**자료구조** (Data Structure)|A+|
