@@ -117,4 +117,3 @@
 | [Docu Notion](https://github.com/sillsdev/docu-notion) | 오탈자 수정([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | 23.08.05 |
 
 <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FscottXchoo&count_bg=%23FE6F00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HELLO&edge_flat=true)](https://hits.seeyoufarm.com)
