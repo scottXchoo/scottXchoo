@@ -116,6 +116,5 @@
 | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | FE 개발자를 위한 프로젝트 초기 세팅 스타터 | 23.09.18 |
 | [Docu Notion](https://github.com/sillsdev/docu-notion) | 오탈자 수정([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | 23.08.05 |
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottXchoo&show_icons=true)](https://github.com/scottXchoo/github-readme-stats)
 <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FscottXchoo&count_bg=%23FE6F00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HELLO&edge_flat=true)](https://hits.seeyoufarm.com)
