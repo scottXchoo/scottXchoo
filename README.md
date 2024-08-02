@@ -112,7 +112,7 @@
 ## 🎮 OPENSOURCE CONTRIBUTION
 | NAME | DESCRIPTION | DATE |
 | --- | --- | --- |
-| [RibbonUI](https://github.com/mentalfl0w/RibbonUI) | CMakeLists.txt 주석 추가 ([PR Merged](https://github.com/mentalfl0w/RibbonUI/pull/8)) | 24.07.30 |
+| [RibbonUI](https://github.com/mentalfl0w/RibbonUI) | CMakeLists.txt 주석 추가 ([PR Merged](https://github.com/mentalfl0w/RibbonUI/pull/8)) | 24.07.30 |
 | [Frontend Simple Starter](https://github.com/scottXchoo/Frontend-Simple-Starter) | FE 개발자를 위한 프로젝트 초기 세팅 스타터 | 23.09.18 |
 | [Docu Notion](https://github.com/sillsdev/docu-notion) | 오탈자 수정([PR Merged](https://github.com/sillsdev/docu-notion/pull/62)) | 23.08.05 |
 
