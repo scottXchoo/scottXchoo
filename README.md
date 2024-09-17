@@ -1,26 +1,26 @@
-# Scott Choo (추교현)
+# Dev.Chooble (추교현)
 
-## 👋🏼 ABOUT ME
+## ABOUT ME
 
-- **블록체인 & 머신러닝/딥러닝**에 관심이 많은 **소프트웨어 엔지니어**이며 **기술로 세상에 선한 영향력을 널리 퍼뜨리고 싶습니다**.
-
-- 1년 3개월 간 [**블록체인 스타트업**](https://www.chooblog.xyz/career/a41)에서 프론트엔드 엔지니어로 근무했으며 [**블록체인 학회**](https://www.chooblog.xyz/career/curg)의 학회장을 1년 정도 역임했습니다.
-
-- **25년 2월에 학부 졸업 예정**이며 [**Computer System Labs**](https://www.cslab.cau.ac.kr/home)에서 학부 연구생으로서 **컴퓨터 시스템 연구**에 참여하고 있습니다.
+- 👋🏼 **Junior System Software Engineer** interested in Blockchain
+- 🎓 **Master's student in [CSLab](https://www.cslab.cau.ac.kr/members)** about Distributed System (25.03~27.02)
+- 🏢 **Career**
+    - ex-Developer, [A41](https://x.com/a41_allforone) (22.05~23.07)
+    - ex-President, [CURG](https://x.com/curg_official) (22.05~23.06)
+- **🎯 Goal:** Spreading good influence around the world through technology
 
 ### 🎖️ ALGORITHM
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
 
-> **24년 상반기 네이버 코딩테스트 :** 1.5문제 / 3문제
-
-- **백준(BOJ) :** 238문제 (Silver 75, Gold 51, Platinum 3)
-- **프로그래머스 :** 99문제
-- **LeetCode :** 43문제 (Easy 5, Medium 26, Hard 12)
-- **=)** 총 380문제 해결
+- **백준(BOJ):** 241문제 (Silver 74, Gold 52, Platinum 3)
+- **프로그래머스:** 99문제
+- **LeetCode:** 43문제 (Easy 5, Medium 26, Hard 12)
+    
+    **⇒ 383 Problem Solved**
 
 ### 🏫 MAJOR SUBJECTS
-> 컴퓨터공학 과목 평점 : 4.21 / 4.5
+> **CS Grade :** 4.21 / 4.5
 
 |**SUBJECT**|**GRADE**|
 |------|---|
@@ -30,7 +30,6 @@
 |**컴퓨터구조** (Computer Architecture)|24년 2학기|
 |**컴퓨터통신** (Computer Network)|24년 2학기|
 |**데이터베이스 설계** (Database)|24년 2학기|
-|**머신러닝 프로젝트** (Machine Learning)|24년 2학기|
 |**이미지 및 자연어 처리를 위한 딥러닝** (Deep Learning)|A+|
 |**객체지향프로그래밍** (OOP)|A+|
 
@@ -51,7 +50,8 @@
 ## 🔥 ACTIVITY
 |**TITLE**|**DESCRIPTION**|**PERIOD**|
 |------|---|---|
-|국민은행 IT 부트캠프 5기 - 알고리즘 코치|KB의 IT’s Your Life에서 알고리즘 관련 질의응답 및 문제풀이를 도와주는 코치 역할 수행|24.07 - 24.08|
+|Linux Kernel Study in CSLab|리눅스 커널에 대한 내용을 코드와 함께 스터디|24.07 1-2주차|
+|국민은행 IT's Youre Life 5기 - 알고리즘 코치|국민은행 IT’s Your Life에서 알고리즘 관련 질의응답 및 문제풀이를 도와주는 코치 역할 수행|24.07 - 24.08|
 |LikeLion 10th|대학생 IT 창업 동아리 멋쟁이사자처럼 10th 프론트엔드|22.03 - 22.08|
 |KT&G 상상 스타트업 캠프 6기|스타트업 액셀러레이팅 프로그램 6기 참여 및 수료|21.12 - 22.03|
 |대학생 셰어하우스 사업|대학생 셰어하우스 1호점 운영|21.06 - 25.06(예정)|
@@ -80,17 +80,18 @@
 |PCCP|452점 (Lv.1)|24.03.10|
 
 ### AWARDS
-|**TITLE**|**AWARD**|**ORGANIZATION**|**DATE**|
+|**TITLE**|**AWARD**|**DATE**|**ORGANIZATION**|
 |------|---|---|------|
-|CAU 캡스톤디자인 경진대회|우수상 (창업)|중앙대학교 LINC 3.0 사업단|23.12.08|
-|Archway Hackathon|2nd Prize (Infra/Tooling Track)|Phi Labs|23.05.06|
-|강원열린군대 군 창업동아리 경진대회|우수상 (군단장상)|육군 2군단|20.12.31|
+|LINC 3.0 캡스톤디자인 경진대회|우수상 (창업)|23.12.08|중앙대학교 LINC 3.0 사업단|
+|Archway Hackathon|2nd Prize (Infra/Tooling Track)|23.05.06|Phi Labs|
+|강원열린군대 군 창업동아리 경진대회|우수상 (군단장상)|20.12.31|육군 2군단|
 
 <br/>
 
 ## 💻 TECH SKILLS
 ### [Strong]
 <div>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
@@ -102,6 +103,7 @@
 
 ### [Knowledgeable]
 <div>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white">
   <img src="https://img.shields.io/badge/Java-004027?style=for-the-badge&logo=Jameson&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
