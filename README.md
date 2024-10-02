@@ -13,11 +13,11 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckh0601)](https://solved.ac/ckh0601/)
 
-- **백준(BOJ):** 241문제 (Silver 74, Gold 52, Platinum 3)
+- **백준(BOJ):** 244문제 (Silver 77, Gold 52, Platinum 3)
 - **프로그래머스:** 99문제
 - **LeetCode:** 43문제 (Easy 5, Medium 26, Hard 12)
     
-    **⇒ 383 Problem Solved**
+    **⇒ 386 Problem Solved**
 
 ### 🏫 MAJOR SUBJECTS
 > **CS Grade :** 4.21 / 4.5
