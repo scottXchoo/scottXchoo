@@ -1,4 +1,4 @@
-# Dev.Chooble (추교현)
+# Scott Choo (추교현)
 
 ## ABOUT ME
 
