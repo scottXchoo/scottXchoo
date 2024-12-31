@@ -11,16 +11,16 @@
 
 
 ### 🏫 MAJOR SUBJECTS
-> **CS Grade :** 4.21 / 4.5
+> **`CS Grade :`** 4.37 / 4.5
 
 |**SUBJECT**|**GRADE**|
 |------|---|
 |**Algorithm (알고리즘)**|A+|
 |**Data Structure (자료구조)**|A+|
 |**Operating System (운영체제)**|A+|
-|**Computer Architecture (컴퓨터구조)**|24년 2학기|
-|**Computer Network (컴퓨터통신)**|24년 2학기|
-|**Database (데이터베이스 설계)**|24년 2학기|
+|**Computer Architecture (컴퓨터구조)**|A0|
+|**Computer Network (컴퓨터통신)**|A0|
+|**Database (데이터베이스 설계)**|A+|
 |**Deep Learning (이미지 및 자연어 처리를 위한 딥러닝)**|A+|
 |**OOP (객체지향프로그래밍)**|A+|
 
