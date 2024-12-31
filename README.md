@@ -11,7 +11,7 @@
 
 
 ### 🏫 MAJOR SUBJECTS
-> **`CS Grade :`** 4.37 / 4.5
+> **`CS Major Grade`:** 4.37 / 4.5
 
 |**SUBJECT**|**GRADE**|
 |------|---|
